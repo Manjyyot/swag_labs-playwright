@@ -23,11 +23,7 @@ npm install playwright
 ## Usage
 
 ```bash
-node sauce_demo_automation.js
+node sauce_demo_odd_item.js
 ```
 
 Ensure Chrome is installed, as the script is configured to launch Chrome (`channel: 'chrome'`).
-
-## Author
-
-Generated using OpenAI's ChatGPT
