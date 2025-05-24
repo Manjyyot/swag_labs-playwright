@@ -26,4 +26,6 @@ npm install playwright
 node sauce_demo_odd_item.js
 ```
 
-Ensure Chrome is installed, as the script is configured to launch Chrome (`channel: 'chrome'`).
+Ensure Chrome is installed, as the script is configured to launch Chrome (`channel: 'chrome').
+Potential Output:
+![image](https://github.com/user-attachments/assets/8f6e096b-6a0f-473b-a38e-1812e7ec02ad)
